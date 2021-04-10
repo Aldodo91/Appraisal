@@ -20,4 +20,6 @@ In questa risposta le chiavi sono:
 
 I primi due parametri sono da riceversi obbligatoriamente, altrimenti l'applicazione mobile non ha modo di funzionare.
 Il parametro tipoProfilo, non e necessario, è molto gradito in quanto sapendo quale utente sta loggando renderizzare lato app la giusta pagina.
-Senza questo parametro sarei costretto a fare una get request in più al server, con le conseguenze del caso, oppure a rivedere con attenzione il *data Flow* del'app.
+Senza questo parametro sarei costretto a fare una get request in più al server, con le conseguenze del caso, oppure a rivedere con attenzione il _data Flow_ del'app.
+
+Esempio di un eventuale risposta è visionabile nel file JSON è questo indirizzo [Appraisal](https://my-json-server.typicode.com/Aldodo91/Appraisal/data) 
