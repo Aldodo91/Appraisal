@@ -1,7 +1,7 @@
 {
     "data":{
-        "AutenticationToken": "Token (stinga) generato dal server",
-        "user_id": "id NUMERICO dell'utente che ha loggato ",
-        "tipoProfilo": "ADMIN || MENTOR || MENTEE utente che ha loggato, può essere un numero o una stringa ( mettiamoci daccordo ) "
+        "AutenticationToken": "Barer Token .... ",
+        "user_id": 1,
+        "tipoProfilo": "ADMIN"
     }
 }
